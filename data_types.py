@@ -24,8 +24,11 @@ print(c)
 # d = int("10.5")
 # print(d)
 
-e = int('ten')
-print(e)
+# e = int('ten')
+# print(e)
 
-x = int(10 + 5j)
-print (x)
+# x = int(10 + 5j)
+# print (x)
+
+f = int("0B1111")
+print(f)
