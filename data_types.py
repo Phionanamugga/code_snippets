@@ -21,8 +21,11 @@ print(z)
 c = int('10')
 print(c)
 
-d = int("10.5")
-print(d)
+# d = int("10.5")
+# print(d)
+
+e = int('ten')
+print(e)
 
 x = int(10 + 5j)
 print (x)
