@@ -18,5 +18,8 @@ print(y)
 z = int(False)
 print(z)
 
+c = int('10')
+print(c)
+
 x = int(10 + 5j)
 print (x)
