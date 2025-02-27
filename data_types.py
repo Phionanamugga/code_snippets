@@ -92,3 +92,6 @@ print(slice_5)
 
 slice_6 = my_string[:5]
 print(slice_6)
+
+slice_7 = my_string[::2]
+print(slice_7)
