@@ -126,3 +126,7 @@ print(exp)
 
 floor_div = 10//3
 print(floor_div)
+
+a = 5
+a += 3
+print(a)
