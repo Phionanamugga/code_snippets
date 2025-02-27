@@ -35,3 +35,6 @@ print(c)
 
 g = bool(0)
 print(g)
+
+h = bool(1)
+print(h)
