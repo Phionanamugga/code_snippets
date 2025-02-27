@@ -130,3 +130,7 @@ print(floor_div)
 a = 5
 a += 3
 print(a)
+
+b = 5
+b -= 3
+print(b)
