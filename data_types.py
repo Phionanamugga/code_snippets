@@ -62,3 +62,6 @@ print(o)
 
 p = bool('True')
 print(p)
+
+q = bool('False')
+print(q)
