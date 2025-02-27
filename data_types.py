@@ -65,3 +65,6 @@ print(p)
 
 q = bool('False')
 print(q)
+
+r = bool("")
+print(r)
