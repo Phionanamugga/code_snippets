@@ -74,3 +74,9 @@ print(my_list)
 
 slice_1 = my_list[2:6]
 print(slice_1)
+
+slice_2 = my_list[1:]
+print(slice_2)
+
+slice_3 = my_list[:5]
+print(slice_3)
