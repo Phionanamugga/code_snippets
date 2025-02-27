@@ -50,3 +50,6 @@ print(k)
 
 l = bool(0.0)
 print(l)
+
+m = bool(10 - 2j)
+print(m)
