@@ -102,3 +102,6 @@ print(slice_8)
 
 slice_9 = my_list[:-3]
 print(slice_9)
+
+slice_10 = my_list[::-1]
+print(slice_10)
