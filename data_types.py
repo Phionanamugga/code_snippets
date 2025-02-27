@@ -99,3 +99,6 @@ print(slice_7)
 my_list = [1,2,3,4,5,6,7,8,9,10]
 slice_8 = my_list[-2:]
 print(slice_8)
+
+slice_9 = my_list[:-3]
+print(slice_9)
