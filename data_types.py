@@ -30,5 +30,8 @@ print(c)
 # x = int(10 + 5j)
 # print (x)
 
-f = int("0B1111")
-print(f)
+# f = int("0B1111")
+# print(f)
+
+g = bool(0)
+print(g)
