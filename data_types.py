@@ -41,3 +41,6 @@ print(h)
 
 i = bool(10)
 print(i)
+
+j = bool(10.5)
+print(j)
