@@ -108,3 +108,6 @@ print(slice_10)
 
 x = 10+5
 print(x)
+
+y = 10-5
+print(y)
