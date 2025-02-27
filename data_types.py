@@ -68,3 +68,9 @@ print(q)
 
 r = bool("")
 print(r)
+
+my_list = [1,2,3,4,5,6,7,8,9,10]
+print(my_list)
+
+slice_1 = my_list[2:6]
+print(slice_1)
