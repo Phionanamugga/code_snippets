@@ -111,3 +111,6 @@ print(x)
 
 y = 10-5
 print(y)
+
+z = 10*5
+print(z)
