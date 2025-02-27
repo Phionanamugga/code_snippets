@@ -136,8 +136,17 @@ b -= 3
 print(b)
 
 d = 5
-d *= 3
+d /= 3
 print(d)
 
 c = 5
 c *= 3
+
+e = 5
+e %= 3
+print(e)
+
+f = 5
+f **= 3
+print(f)
+
