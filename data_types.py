@@ -53,3 +53,6 @@ print(l)
 
 m = bool(10 - 2j)
 print(m)
+
+n = bool(0 + 5j)
+print(n)
