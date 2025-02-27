@@ -114,3 +114,9 @@ print(y)
 
 z = 10*5
 print(z)
+
+w = 10/5
+print(w)
+
+mod = 10%5
+print(mod)
