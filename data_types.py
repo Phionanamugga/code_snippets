@@ -134,3 +134,10 @@ print(a)
 b = 5
 b -= 3
 print(b)
+
+d = 5
+d *= 3
+print(d)
+
+c = 5
+c *= 3
