@@ -56,3 +56,6 @@ print(m)
 
 n = bool(0 + 5j)
 print(n)
+
+o = bool(0 + 0j)
+print(o)
