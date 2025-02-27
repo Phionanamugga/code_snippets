@@ -80,3 +80,7 @@ print(slice_2)
 
 slice_3 = my_list[:5]
 print(slice_3)
+
+
+slice_4 = my_list[::2]
+print(slice_4)
