@@ -120,3 +120,6 @@ print(w)
 
 mod = 10%5
 print(mod)
+
+exp = 10**3
+print(exp)
