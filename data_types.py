@@ -150,3 +150,7 @@ f = 5
 f **= 3
 print(f)
 
+g = 5
+g //= 3
+print(g)
+
