@@ -154,3 +154,8 @@ g = 5
 g //= 3
 print(g)
 
+x = 10
+y = 5
+print(x == y)
+
+
