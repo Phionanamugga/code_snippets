@@ -84,3 +84,7 @@ print(slice_3)
 
 slice_4 = my_list[::2]
 print(slice_4)
+
+my_string = "Hello, World"
+slice_5 = my_string[7:]
+print(slice_5)
