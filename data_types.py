@@ -105,3 +105,6 @@ print(slice_9)
 
 slice_10 = my_list[::-1]
 print(slice_10)
+
+x = 10+5
+print(x)
