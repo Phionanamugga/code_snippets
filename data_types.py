@@ -88,3 +88,7 @@ print(slice_4)
 my_string = "Hello, World"
 slice_5 = my_string[7:]
 print(slice_5)
+
+
+slice_6 = my_string[:5]
+print(slice_6)
