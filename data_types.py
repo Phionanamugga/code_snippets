@@ -59,3 +59,6 @@ print(n)
 
 o = bool(0 + 0j)
 print(o)
+
+p = bool('True')
+print(p)
