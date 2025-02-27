@@ -44,3 +44,6 @@ print(i)
 
 j = bool(10.5)
 print(j)
+
+k= bool(0.178)
+print(k)
