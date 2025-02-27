@@ -38,3 +38,6 @@ print(g)
 
 h = bool(1)
 print(h)
+
+i = bool(10)
+print(i)
