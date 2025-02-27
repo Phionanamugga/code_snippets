@@ -174,3 +174,11 @@ print(a and b)
 print(a or b)
 print(not a)
 
+x = 10
+y = 5
+print(x & y)
+print(x | y)
+print(x ^ y)
+print(~x)
+print(x << 2)
+print(x >> 2)
