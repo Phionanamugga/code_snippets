@@ -123,3 +123,6 @@ print(mod)
 
 exp = 10**3
 print(exp)
+
+floor_div = 10//3
+print(floor_div)
